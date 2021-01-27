@@ -1,0 +1,23 @@
+{
+  "name": "backend-min-yun-ji-nian",
+  "version": "1.0.0",
+  "description": "云纪念小程序后台",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrsmithdohpl13/backend-min-yun-ji-nian.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jrsmithdohpl13/backend-min-yun-ji-nian/issues"
+  },
+  "homepage": "https://github.com/jrsmithdohpl13/backend-min-yun-ji-nian#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
